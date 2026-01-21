@@ -13,9 +13,4 @@ Competitive programmer $|$ National Science Olympiad in Informatics ([Bronze Med
 
 ## Skills
 - **Programming:** C++, Python
-- **Algorithms & Data Structures:** Graphs, Dynamic Programming, Ad-hoc problem solving
-- **Mathematics:** Number Theory, Probability, Combinatorics, Geometry, Algebra
-- **Computational Mathematics:** Discrete Mathematics, Computational Geometry
-
-## Tools
-- VS Code, WSL (Ubuntu), GitHub
+- **Technical:** Competitive Programming
