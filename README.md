@@ -1,6 +1,4 @@
 # Sultan Afif Kanz
-
-[LinkedIn](https://www.linkedin.com/in/sultan-afif-kanz-995529375)  
 Kharisma Bangsa School of Global Education (High School)
 
 Prospective Computer Science & Mathematics student  
